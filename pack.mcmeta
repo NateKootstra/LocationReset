@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Resets the location of players when they leave the game.",
+        "pack_format": 48
+    }
+}
